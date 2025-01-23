@@ -1,0 +1,48 @@
+---
+title: "Kevin Li"
+image: media/kevin.jpg
+toc: false
+about:
+  template: solana
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/neivk/
+    - text: Google Scholar
+      href: https://scholar.google.com/citations?user=JQkwWL4AAAAJ
+    - text: ResearchGate
+      href: https://www.researchgate.net/profile/Kevin-Li-39
+---
+
+Kevin is a landscape- and agro-ecologist who is also trained in landscape architecture. He uses his unique background to take a data-driven approach to sustainable design. His work aims to make environmental data accessible and actionable for communities and decision makers. He has expertise in geographic information systems (GIS), statistical analysis, and data visualization, as well as hands-on ecological restoration, stewardship, and landscape design.
+
+Through his research and consulting work, Kevin is dedicated to creating landscapes that meet human and ecological needs and foster resilient communities for people and nature.
+
+## Education
+
+**University of Göttingen** | Göttingen, Germany | 2020
+
+PhD Crop Science
+
+**University of Michigan** | Ann Arbor, MI | 2015
+
+M Landscape Architecture
+
+MS Conservation Ecology
+
+**University of North Carolina** | Chapel Hill, NC | 2008
+
+BS Biology
+
+## Experience
+
+**Matrix Metrics** | Data and modeling consultant | July 2020 - present
+
+**Oak Ridge Institute for Science Education and US Department of Agriculture** | SCINet Postdoctoral Fellow | Nov 2022 - present
+
+**University of Michigan** | Postdoctoral Researcher | Oct 2020 - Oct 2022
+
+**North Carolina State University** | Postgraduate Researcher | Aug 2015 - April 2017
+
+**Cornell University** | GIS Consultant | Jun 2016 - Aug 2017

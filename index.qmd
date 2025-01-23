@@ -1,11 +1,19 @@
 ---
-title: "matrixmetrics"
+title: "Matrix Metrics"
 ---
 
-This is a Quarto website.
+## What is Matrix Metrics?
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Matrix Metrics combines the expertise of Kevin Li and Rachel Long. Together we have expertise in:
 
-```{r}
-1 + 1
-```
+-   Ecology
+-   Public Health
+-   Landscape Architecture
+-   Statistics
+-   Geospatial Analysis
+
+## Mission statement
+
+We believe ecological and social systems are critically interconnected in the landscape. In the vocabulary of agroecology, the matrix describes places in the landscape where people and nature interact. We are committed to using our expertise to find solutions that support a sustainable and functioning matrix, that are responsive to local communities, support people’s needs, and restore natural systems.
+
+Matrix Metrics is a limited liability company.
