@@ -152,7 +152,7 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="mission-statement" class="level2">
 <h2 class="anchored" data-anchor-id="mission-statement">Mission statement</h2>
-<p>We believe ecological and social systems are critically interconnected in the landscape. In agroecology, the places in the landscape where people and nature interact is called the matrix. We are committed to using our expertise to find solutions that are responsive to local communities, support people’s needs, and restore of natural systems.</p>
+<p>We believe ecological and social systems are critically interconnected in the landscape. In the vocabulary of agroecology, the matrix describes places in the landscape where people and nature interact. We are committed to using our expertise to find solutions that support a sustainable and functioning matrix, that are responsive to local communities, support people’s needs, and restore natural systems.</p>
 <p>Matrix Metrics is a limited liability company.</p>
 
 
@@ -251,7 +251,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/KwnLi\.github\.io\/matrixmetrics\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
